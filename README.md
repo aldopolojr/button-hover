@@ -1,12 +1,13 @@
 # Button With Awesome Hover Effect
-This is a **quick tutorial**, check here for the [demo](https://aldopolojr.github.io/button-hover/)
+
+## links
+[demo link](https://aldopolojr.github.io/button-hover/)
+
+[source link](https://youtu.be/SP0wAmjbaQ4)
+
+## Category
+tutorials
 
 ## Notes
 - ::before
 - ::after
-
-## Source
-[Button With Awesome Hover Effect](https://youtu.be/SP0wAmjbaQ4)
-
-## Tags
-#HTML #CSS #Animation
